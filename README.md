@@ -61,7 +61,7 @@ you can review the api here: https://learn.microsoft.com/en-us/previous-versions
 
 For example, the empty box in settings can be recreated using this command:
 ```
-/say sayxml You <pitch middle="10">really should enter</pitch> something to say if you want to test.  This box also supports <spell>XML</spell>
+/tts sayxml You <pitch middle="10">really should enter</pitch> something to say if you want to test.  This box also supports <spell>XML</spell>
 ```
 
 ## Authors
