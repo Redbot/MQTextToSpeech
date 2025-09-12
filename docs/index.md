@@ -1,6 +1,14 @@
 ---
 tags:
   - plugin
+resource_link: "https://www.redguides.com/community/resources/mqtexttospeech.2671/"
+support_link: "https://www.redguides.com/community/threads/mqtexttospeech.84887/"
+repository: "https://github.com/Knightly1/MQTextToSpeech"
+config: "MQTextToSpeech.ini"
+authors: "Knightly, A_Enchanter_00, eqholic"
+tagline: "Uses Microsoft's Speech API to provide text to speech options"
+quick_start: "https://www.redguides.com/community/resources/mqtexttospeech.2671/"
+acknowledgements: "A_Enchanter_00 - Wrote MQ2VoiceCommand (which doesn't actually do voice commands, sadly)     eqholic - Wrote MQ2Speaker which wasn't ported to MQ"
 ---
 
 # MQTextToSpeech
@@ -23,7 +31,7 @@ it is better to use the settings menu.
 
 <a href="cmd-tts/">
 {% 
-  include-markdown "plugins/community-plugins/mqtexttospeech/cmd-tts.md" 
+  include-markdown "projects/mqtexttospeech/cmd-tts.md" 
   start="<!--cmd-syntax-start-->" 
   end="<!--cmd-syntax-end-->" 
 %}
@@ -49,8 +57,8 @@ Example:
 
 The TLO [TTS](tlo-tts.md) adds the following members:
 
-{% include-markdown "plugins/community-plugins/mqtexttospeech/datatype-tts.md" start="<!--dt-members-start-->" end="<!--dt-members-end-->" %}
-{% include-markdown "plugins/community-plugins/mqtexttospeech/datatype-tts.md" start="<!--dt-linkrefs-start-->" end="<!--dt-linkrefs-end-->" %}
+{% include-markdown "projects/mqtexttospeech/datatype-tts.md" start="<!--dt-members-start-->" end="<!--dt-members-end-->" %}
+{% include-markdown "projects/mqtexttospeech/datatype-tts.md" start="<!--dt-linkrefs-start-->" end="<!--dt-linkrefs-end-->" %}
 
 
 ### Configuration File

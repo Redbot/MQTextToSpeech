@@ -19,10 +19,10 @@ The sole TLO for MQTextToSpeech
 ## Associated DataTypes
 <!--tlo-datatypes-start-->
 ## [`TTS`](datatype-tts.md)
-{% include-markdown "plugins/community-plugins/mqtexttospeech/datatype-tts.md" start="<!--dt-desc-start-->" end="<!--dt-desc-end-->" trailing-newlines=false %} {{ readMore('plugins/community-plugins/mqtexttospeech/datatype-tts.md') }}
+{% include-markdown "projects/mqtexttospeech/datatype-tts.md" start="<!--dt-desc-start-->" end="<!--dt-desc-end-->" trailing-newlines=false %} {{ readMore('projects/mqtexttospeech/datatype-tts.md') }}
 :    <h3>Members</h3>
-    {% include-markdown "plugins/community-plugins/mqtexttospeech/datatype-tts.md" start="<!--dt-members-start-->" end="<!--dt-members-end-->" %}
-    {% include-markdown "plugins/community-plugins/mqtexttospeech/datatype-tts.md" start="<!--dt-linkrefs-start-->" end="<!--dt-linkrefs-end-->" %}
+    {% include-markdown "projects/mqtexttospeech/datatype-tts.md" start="<!--dt-members-start-->" end="<!--dt-members-end-->" %}
+    {% include-markdown "projects/mqtexttospeech/datatype-tts.md" start="<!--dt-linkrefs-start-->" end="<!--dt-linkrefs-end-->" %}
     <!--tlo-datatypes-end-->
 
     <!--tlo-linkrefs-start-->

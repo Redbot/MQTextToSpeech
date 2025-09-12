@@ -30,6 +30,6 @@ Holds several members for MQTextToSpeech
 <!--dt-examples-end-->
 
 <!--dt-linkrefs-start-->
-[int]: ../../../reference/data-types/datatype-int.md
-[string]: ../../../reference/data-types/datatype-string.md
+[int]: ../macroquest/reference/data-types/datatype-int.md
+[string]: ../macroquest/reference/data-types/datatype-string.md
 <!--dt-linkrefs-end-->
