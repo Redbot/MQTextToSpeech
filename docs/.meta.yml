@@ -1,0 +1,5 @@
+docs_repository: "https://github.com/Redbot/MQTextToSpeech"
+docs_edit_uri: "edit/docs-dir/"
+docs_path_transform:
+  from: "projects/mqtexttospeech/"
+  to: "docs/"
