@@ -1,0 +1,5 @@
+docs_repository: "https://github.com/Knightly1/MQTextToSpeech"
+docs_edit_uri: "edit/main/"
+docs_path_transform:
+  from: "plugins/community-plugins/mqtexttospeech/"
+  to: "docs/"
