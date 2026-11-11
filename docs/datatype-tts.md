@@ -10,17 +10,17 @@ Holds several members for MQTextToSpeech
 
 ## Members
 <!--dt-members-start-->
-### {{ renderMember(type='string', name='Voice') }}
+/// member | string Voice
+Which voice is being used (additional voices must be installed)
+///
 
-:   Which voice is being used (additional voices must be installed)
+/// member | int Volume
+The current set volume
+///
 
-### {{ renderMember(type='int', name='Volume') }}
-
-:   The current set volume
-
-### {{ renderMember(type='int', name='Speed') }}
-
-:   The speed of the speech
+/// member | int Speed
+The speed of the speech
+///
 
 <!--dt-members-end-->
 

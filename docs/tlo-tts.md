@@ -10,9 +10,8 @@ The sole TLO for MQTextToSpeech
 
 ## Forms
 <!--tlo-forms-start-->
-### {{ renderMember(type='TTS', name='TTS') }}
-
-:   
+/// member | TTS TTS
+///
 
 <!--tlo-forms-end-->
 
